@@ -1,0 +1,18 @@
+#2nd Year Python 004
+#Predict what will happen when the following program is run.
+
+
+x=2
+y=3
+z=x+y
+print("z")
+print(z)
+print("z=x+y")
+
+z=z+2
+print("z=z+2, the answer is:",z)
+
+#01. Prediction:
+
+
+#02. Change the code to multiply/divide/add/subtract the numbers
