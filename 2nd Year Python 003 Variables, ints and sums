@@ -1,0 +1,37 @@
+#Python Class 3 Prediction Exercise.
+#01. Write your prediction for what the outcome of this program will be:
+#Name:
+#Prediction:
+
+
+
+today=("Wednesday")
+day=3
+
+print("Hello friend, my name is PC45")
+user=input("What is your name?")
+
+print("Nice to meet you",user)
+
+print("Today is:", today)
+
+print(today, "is day", day, "of the week")
+
+days=7
+print("There are",days,"days in the week")
+
+x=days-day
+print("There are", x, "days left in this week")
+
+
+#***********************************************************************************************
+
+#02. Did the code work as you expected?
+#If something was different make a note of what it was.
+
+
+#***********************************************************************************************
+#03.Make the following changes to the code:
+
+  #A. Change the day in the variable to Friday.
+  #B. Adjust the numbers in the variables to accurately print out the correct number of days left in the week.
