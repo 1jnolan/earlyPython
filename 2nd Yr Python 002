@@ -1,0 +1,15 @@
+# #This is a comment
+# x=("Hello")
+# print("x") #this will print the STRING "x"
+# print(x) #we can print a variable.
+# 
+#Getting the computer to say hello.
+name=("Jonathan")
+print("Hello", name, "how are you today?")
+#*************************************************************
+
+#Computer talking to human:
+print("Hello, whats happening?")
+print("What is your name?")
+personname=input()
+print("Hello",personname)
