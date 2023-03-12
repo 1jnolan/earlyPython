@@ -1,0 +1,28 @@
+#2nd Year Python 005 - Using inputs and variables
+#Complete all 3 exercises:
+
+#01. Predict what will happen when the following program is run.
+
+#*********************************************
+
+name=("Fred")
+num1=3
+num2=5
+
+print("Hi, my name is", name)
+print("Sometimes I say my name a lot", name*num1)
+print("It can get annoying", name*num2)
+
+
+num3=int(input("How many times would you like me to say my name?"))
+print(name*num3)
+
+#02. Did the program run as you expected? - Make a note of anything which was different.
+
+
+#*********************************************
+
+#03. Change the program to say its name is Fraya.
+#Add a new line to have the computer ask your name and then print out your name num3 times.
+
+#********************END**********************
