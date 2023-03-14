@@ -1,0 +1,21 @@
+#2nd Year Python 006
+#Complete all exercises:
+
+#01. Predict what will happen when the following program is run.
+
+#*********************************************
+
+x=6
+y=4
+z=x+y
+p=z+z
+x=y
+q=x+p
+print(q)
+
+y=q-z
+print(y)
+print(y/2)
+
+#2. Type out the program and test it.
+#3. Did it run as expected? If not what did you learn?
