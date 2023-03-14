@@ -1,0 +1,17 @@
+##2nd Year Python Lesson 08 - The age checker program
+
+#Complete all exercises:
+
+#01. Predict what will happen when the following program is run. - Write your answer onto a sheet of paper
+name=input("Hi I am the polite but chatty Age Checker Program. Please enter your name:")
+print("Hi",name, " it is great to meet you. \nI hope you are feeling well today")
+
+current_year=input("To allow me to complete my job can you please enter the current year?")
+print("Wow! I cant believe it is already", current_year,"!")
+
+year_born=input("Can you please enter the year you were born")
+print("How time flies!")
+print()
+print()
+
+#02. Complete the code so that the Age Checker program tells the user their age...
