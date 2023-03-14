@@ -1,0 +1,30 @@
+#2nd Year Python Lesson 007
+
+#Complete all exercises:
+
+#01. Predict what will happen when the following program is run.
+
+#*********************************************
+
+fruit01="apples"
+fruit02="oranges"
+fruit03="bananas"
+num1=3
+num2=4
+num3=5
+order=0
+
+print("Here is a shopping list")
+order=num1
+print("Please buy:", fruit01, "x", order)
+
+
+#02. Extend the program so that it prints the following out:
+"""
+Here is a shopping list
+
+Please buy: apples x 3
+#Please buy oranges x 9
+#Please buy bananas x 2
+
+"""
